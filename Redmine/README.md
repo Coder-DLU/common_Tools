@@ -21,9 +21,12 @@
 ![VMWare](detail_Tiket2.PNG)
 
 - Redmine – Gantt
+  + Gantt là một tính năng giúp theo dõi tiến độ của dự án.
+
 ![VMWare](detail_Tiket3.PNG)
 
 - Redmine – Wiki
+  + Main document, thông số kỹ thuật của dự án sẽ được mô tả ở đây.. 
 
 ![VMWare](detail_Tiket4.PNG)
 
