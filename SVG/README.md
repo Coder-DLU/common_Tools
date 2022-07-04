@@ -26,5 +26,5 @@ TortoiseSVN → Update trong context menu của explorer.
 
 ![VMWare](Committing.PNG)
 
-
+  - Resolve Conflict:
 
