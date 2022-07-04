@@ -13,5 +13,6 @@
 # 1.2: Cách hoạt động của Subversion:
 ![VMWare](SVN(Subversion).PNG)
 # 1.3:Bắt đầu với TortoiseSVN
-  - Check out: Để có được một bản sao hoạt động, bạn cần Check out từ một repository(kho). Chọn một thư mục trong windows explorer nơi bạn muốn đặt bản sao làm việc của bạn Nhấp chuột phải để bật context menu và chọn lệnh TortoiseSVN → Checkout sẽ trả về hộp thoại sau: 
+  - Check out: Để có được một bản sao hoạt động, bạn cần Check out từ một repository(kho). Chọn một thư mục trong windows explorer nơi bạn muốn đặt bản sao làm việc của bạn Nhấp chuột phải để bật context menu và chọn lệnh TortoiseSVN → Checkout sẽ trả về hộp thoại sau:
+  
 ![VMWare](dialog.PNG)
