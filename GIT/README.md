@@ -53,5 +53,19 @@
   - Thực hiện commit giải quyết xung đột: add, commit và push lại.
 => Bạn nên kéo từ kho để kiểm tra và giải quyết xung đột trước khi đẩy.
 
-
+# 6: GIT/SVN exercises
+  ## 1:Question: Different between SVN and Git?(Khác nhau giữa SVN và Git?)
+  Exercises:
+• https://learngitbranching.js.org/
+• https://gitexercises.fracz.com/
+- Exercise 1 – Prepare basic git environment:
+• Create remote repository : (github,gitlab..) ex: https://github.com/lsnp/hellogit_.git
+• Create working copy of hellogit_.git, name “Client_yourName” (git clone)
+- Exercise 2 – Add new file index.txt in Working Directory and input content file, then
+push to remote repository (Explain what each step will do)
+- Exercise 3 – Create a new branch and checkout this branch. Change the index.txt
+content, view change and push to your branch repository. Merge it to master branch.
+- Exercise 4 – Find out what has change in file “index.txt” (git log). Then revert the
+revisions. (git revert)
+- Exercise 5 – Make the conflict and resolve it.
 
