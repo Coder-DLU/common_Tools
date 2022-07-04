@@ -32,6 +32,8 @@ TortoiseSVN → Update trong context menu của explorer.
 
 ![VMWare](Resolve.PNG)
 
-To resolve conflict(giải quyết xung đột):
+  - To resolve conflict(giải quyết xung đột):
+    +  Cập nhật từ kho: SVN Update
+    +  Mở tệp trong trình chỉnh sửa( editor) và chỉnh sửa kết quả cuối cùng bạn muốn. Ngoài ra, đối với mọi tệp xung đột Subversion đặt ba tệp bổ sung vào thư mục của bạn.
 
 
