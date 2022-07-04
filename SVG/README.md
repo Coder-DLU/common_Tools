@@ -12,3 +12,5 @@
   - Branches: Hoạt động Branches được sử dụng để tạo ra một dòng phát triển khác. Nó rất hữu ích khi bạn muốn quá trình phát triển của mình chia thành hai nhiều hướng khác nhau. Ví dụ: khi bạn phát hành phiên bản 5.0, bạn có thể muốn tạo một nhánh để có thể duy trì sự phát triển của các tính năng 6.0 tách biệt khỏi bản sửa lỗi 5.0.
 # 1.2: Cách hoạt động của Subversion:
 ![VMWare](SVN(Subversion).PNG)
+# 1.3:Bắt đầu với TortoiseSVN
+  - Check out: Để có được một bản sao hoạt động, bạn cần Check out từ một repository(kho).
