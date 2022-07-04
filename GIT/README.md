@@ -26,3 +26,20 @@
     + Đơn giản là: Tôi đã hoàn thành tính năng trong chi nhánh. Xin hãy giúp tôi hợp nhất(merge) nó lên nhánh chính (master).
     + Trợ giúp để xem lại mã. Ngăn chặn một thành viên phá hủy toàn bộ dự án.
 # 3: Các lệnh Git cơ bản.
+  - git init: Tạo một kho lưu trữ
+  - git clone: Sao chép một kho lưu trữ vào một thư mục mới
+  - git pull: Tìm nạp và tích hợp với một kho lưu trữ khác hoặc một chi nhánh cục bộ
+  - git add & "git add .": Thêm nội dung tệp vào index
+  - git commit: Ghi lại các thay đổi đối với kho lưu trữ
+  - git push: Cập nhật các tham chiếu từ xa cùng với các đối tượng liên quan.
+  - git log: Hiển thị nhật ký commit
+  - git diff: Hiển thị các thay đổi giữa các commit, commit và cây làm việc(working tree), v.v.
+  - git branch: Liệt kê, tạo hoặc xóa các nhánh
+  - git checkout: Chuyển các nhánh hoặc khôi phục các tệp cây đang hoạt động
+  - git merge: Kết hợp hai hoặc nhiều lịch sử phát triển với nhau
+  - gitk: Nếu bạn thích cách sử dụng GUI để tìm hiểu lịch sử kho lưu trữ, bạn có thể làm như vậy sử dụng "gitk" được vận chuyển cùng với Git.
+# 4: Resolve Conflict((Gải quyết xung đột):
+  -  Khi nhà phát triển A thực hiện thay đổi nội dung của tệp index và đã đẩy lên kho lưu trữ từ xa git.
+  -  Sau đó, nhà phát triển B cũng thực hiện thay đổi nội dung của tệp index. Và bây giờ nếu B đẩy mã vào kho lưu trữ, xung đột sẽ xảy ra
+
+![VMWare](resolveConflict.PNG)
