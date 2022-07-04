@@ -42,4 +42,9 @@
   -  Khi nhà phát triển A thực hiện thay đổi nội dung của tệp index và đã đẩy lên kho lưu trữ từ xa git.
   -  Sau đó, nhà phát triển B cũng thực hiện thay đổi nội dung của tệp index. Và bây giờ nếu B đẩy mã vào kho lưu trữ, xung đột sẽ xảy ra
 
-![VMWare](resolveConflict.PNG)
+![VMWare](gitError.PNG)
+
+
+
+
+
