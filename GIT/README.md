@@ -50,7 +50,8 @@
 
 ![VMWare](fixErrorGit.PNG)
 
-
+  - Thực hiện commit giải quyết xung đột: add, commit và push lại.
+=> Bạn nên kéo từ kho để kiểm tra và giải quyết xung đột trước khi đẩy.
 
 
 
