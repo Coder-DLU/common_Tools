@@ -26,11 +26,12 @@ TortoiseSVN → Update trong context menu của explorer.
 
 ![VMWare](Committing.PNG)
 
-  - Resolve Conflict:1. 
+  - Resolve Conflict(xảy ra xung đột): 
       + Khi SVN Client A thực hiện thay đổi nội dung của  index file và đã commited lên kho lưu trữ máy chủ SVN.
       + Sau đó, SVN Client B cũng thực hiện thay đổi nội dung của index file. Và bây giờ nếu B commited tệp này vào kho lưu trữ, xung đột sẽ xảy ra.
 
 ![VMWare](Resolve.PNG)
 
+To resolve conflict(giải quyết xung đột):
 
 
