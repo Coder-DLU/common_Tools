@@ -5,3 +5,4 @@
     ## 2.1: SVN là gì?
     - SVN là một phần mềm Hệ thống kiểm soát phiên bản tập trung (CVCS) được phân phối theo giấy phép nguồn mở.
     - Subversion:  quản lý các tệp và thư mục cũng như những thay đổi được thực hiện đối với chúng,over time(mọi thời gian).
+    - Cho phép bạn khôi phục các phiên bản cũ hơn của dữ liệu hoặc kiểm tra lịch sử của dữ liệu của bạn đã thay đổi như thế nào.
