@@ -16,3 +16,10 @@
   - Check out: Để có được một bản sao hoạt động, bạn cần Check out từ một repository(kho). Chọn một thư mục trong windows explorer nơi bạn muốn đặt bản sao làm việc của bạn Nhấp chuột phải để bật context menu và chọn lệnh TortoiseSVN → Checkout sẽ trả về hộp thoại sau:
   
 ![VMWare](dialog.PNG)
+
+  - Update: Cập nhật bản sao làm việc của bạn với các thay đổi từ SVN Repository. Đến
+cập nhật, chọn files / hoặc thư mục(directories) bạn muốn, nhấp chuột phải và chọn
+TortoiseSVN → Update trong context menu của explorer.
+![VMWare](updateSVN.PNG)
+
+  - Committing Your Changes To The Repository: 
