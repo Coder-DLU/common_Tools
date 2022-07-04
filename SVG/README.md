@@ -36,4 +36,8 @@ TortoiseSVN → Update trong context menu của explorer.
     +  Cập nhật từ kho: SVN Update
     +  Mở tệp trong trình chỉnh sửa( editor) và chỉnh sửa kết quả cuối cùng bạn muốn. Ngoài ra, đối với mọi tệp xung đột Subversion đặt ba tệp bổ sung vào thư mục của bạn.
 
+![VMWare](resolveConflict.PNG)
+
+    + Thực hiện commit giải quyết xung đột: commit lại.
+    + Bạn nên update từ kho lưu trữ(repository) để kiểm tra và giải quyết xung đột trước khi commit.
 
