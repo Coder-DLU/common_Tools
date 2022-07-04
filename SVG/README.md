@@ -11,4 +11,4 @@
   - Working copy(Phiên bản làm việc): là ảnh chụp nhanh của Repository. Repository được chia sẻ bởi tất cả các nhóm, nhưng mọi người không trực tiếp sửa đổi nó. Thay vào đó mỗi nhà phát triển kiểm tra bản sao làm việc. Bản sao làm việc là một bản riêng tư nơi làm việc nơi các nhà phát triển có thể thực hiện công việc của họ, còn lại tách biệt với phần còn lại của đội.
   - Branches: Hoạt động Branches được sử dụng để tạo ra một dòng phát triển khác. Nó rất hữu ích khi bạn muốn quá trình phát triển của mình chia thành hai nhiều hướng khác nhau. Ví dụ: khi bạn phát hành phiên bản 5.0, bạn có thể muốn tạo một nhánh để có thể duy trì sự phát triển của các tính năng 6.0 tách biệt khỏi bản sửa lỗi 5.0.
 # 1.2: Cách hoạt động của Subversion:
-![VMWare](vmware.png)
+![VMWare](SVN(Subversion).PNG)
