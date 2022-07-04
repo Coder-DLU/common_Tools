@@ -42,3 +42,8 @@
     +  Nếu Trưởng nhóm nhận được QA, một điều không thể giải quyết -> hãy communicate with trainer để được trợ giúp.
     +  Vui lòng làm theo sơ đồ quy trình làm việc (slide 4) để biết công việc.
 
+# 3: Atlas - Introduction(giới thiệu Atlas)
+  - Công cụ này dùng để dịch các tài liệu từ tiếng Nhật sang tiếng Việt tự động (nhưng độ chính xác không cao, chỉ mang tính chất tham khảo).
+  - Các định dạng tài liệu được hỗ trợ: txt, csv, xls, doc, ppt (ngoại trừ pdf).
+  - Yêu cầu bộ phận BECOM nếu bạn muốn dịch tài liệu để xem trước (trong khi chờ BSE dịch nó)
+  - Để biết chi tiết về cách sử dụng công cụ này, hãy tham khảo tài liệu đào tạo Atlas của BECOM department.
