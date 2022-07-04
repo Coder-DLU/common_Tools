@@ -47,7 +47,10 @@
 # 5: Cách giải quyết xung đột.
   - Để kéo code từ kho lưu trữ: git pull
   - Mở tệp trong trình chỉnh sửa(editor) và chỉnh sửa kết quả cuối cùng bạn muốn:
-![VMWare](gitError.PNG)
+
+![VMWare](fixErrorGit.PNG)
+
+
 
 
 
