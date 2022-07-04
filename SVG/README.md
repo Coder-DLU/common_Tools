@@ -23,5 +23,8 @@ TortoiseSVN → Update trong context menu của explorer.
 ![VMWare](updateSVN.PNG)
 
   - Committing Your Changes To The Repository: Gửi những thay đổi bạn đã thực hiện đối với bản sao làm việc của bạn được gọi là committing các thay đổi.Nhưng trước khi bạn commit bạn phải đảm bảo rằng bản sao làm việc của bạn được cập nhật.Bạn có thể sử dụng TortoiseSVN → Update để cập nhật trực tiếp. Hoặc bạn có thể sử dụng TortoiseSVN →  Check for Modifications đầu tiên. để xem tệp nào đã thay đổi cục bộ hoặc trên máy chủ.
+
 ![VMWare](Committing.PNG)
+
+
 
