@@ -30,5 +30,15 @@
 
 ![VMWare](detail_Tiket4.PNG)
 
-- Redmine Exercises
+# 2: Redmine Exercises
+  - Yêu cầu: 
+    + Người lãnh đạo(Leader) tạo nhiệm vụ với chủ đề: [Đào tạo](Training) Đào tạo Quy trình làm việc(Training Working process), Thư(Mail), Redmine, Auto Office.
+    + Mô tả(Description):
+      + Mỗi thành viên Tạo một "Request Meeting Room", “Facility request”, “Leave request”.
+      + Viết email với nội dung là thông tin liên hệ của tất cả các thành viên trong nhóm và gửi cho trưởng nhóm. Tạo bộ lọc nhóm cho email.
+      + Ảnh chụp màn hình xử lý quá trình tạo và kết quả (bao gồm kết quả từ người phê duyệt).
+    +  Nhóm trưởng(Leader) tạo nhiệm vụ phụ theo mô tả và phân công cho thành viên (mỗi thành viên sẽ có 1 nhiệm vụ).
+    +  Thành viên trong nhóm làm nhiệm vụ và cập nhật nhiệm vụ, nếu gặp sự cố, hãy tạo QA và phân công cho leader.
+    +  Nếu Trưởng nhóm nhận được QA, một điều không thể giải quyết -> hãy communicate with trainer để được trợ giúp.
+    +  Vui lòng làm theo sơ đồ quy trình làm việc (slide 4) để biết công việc.
 
