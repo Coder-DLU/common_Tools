@@ -38,6 +38,6 @@ TortoiseSVN → Update trong context menu của explorer.
 
 ![VMWare](resolveConflict.PNG)
 
-    + Thực hiện commit giải quyết xung đột: commit lại.
-    + Bạn nên update từ kho lưu trữ(repository) để kiểm tra và giải quyết xung đột trước khi commit.
+    +  Thực hiện commit giải quyết xung đột: commit lại.
+    +  Bạn nên update từ kho lưu trữ(repository) để kiểm tra và giải quyết xung đột trước khi commit.
 
