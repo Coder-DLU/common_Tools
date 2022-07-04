@@ -10,4 +10,22 @@
 
 - Redmine – Detail ticket & Update Ticket
 
-![VMWare](update tiket.PNG)
+![VMWare](detail_Tiket.PNG)
+
+- Redmine – Update Ticket(In Progress)
+
+![VMWare](detail_Tiket1.PNG)
+
+- Redmine – Update Ticket(Resolved & Closed)
+
+![VMWare](detail_Tiket2.PNG)
+
+- Redmine – Gantt
+![VMWare](detail_Tiket3.PNG)
+
+- Redmine – Wiki
+
+![VMWare](detail_Tiket4.PNG)
+
+- Redmine Exercises
+
